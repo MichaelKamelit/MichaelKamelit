@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Michael Kamel</h1>
-<h3 align="center">DevOps Engineer | Cloud Engineer | IT Infrastructure Specialist</h3>
+<h3 align="center">Senior IT Manager | DevOps & Cloud Engineer | SecOps Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/MichaelKamelit?tab=followers">
-    <img src="https://img.shields.io/github/followers/MichaelKamelit?label=Followers&style=for-the-badge" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=MichaelKamelit&label=Profile+Views&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Cloud%20%7C%20Infra-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/MichaelKamelit?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-17%2B%20Years-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -16,53 +14,74 @@
   <a href="https://github.com/MichaelKamelit/michael-portfolio">
     <img src="https://img.shields.io/badge/Portfolio-GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/MichaelKamelit">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 DevOps Engineer with strong background in IT Infrastructure and Systems Administration
-- ☁️ Working across Cloud, Automation, Deployment Pipelines, and Infrastructure Reliability
-- 🛠️ Hands-on with Azure, Windows Server, Microsoft 365, Virtualization, Networking, and Support
-- 📚 Passionate about building practical solutions, learning continuously, and sharing technical knowledge
+- 💼 Senior IT Manager with **17+ years experience** in IT Infrastructure & Cloud
+- ☁️ Specialized in **Microsoft Azure & AWS Cloud Solutions**
+- 🔐 Currently working on **Google SecOps & Security Operations**
+- 📈 Achieved **40% cost reduction** and **99.9% system uptime**
+- 🏗️ Expert in **designing scalable, secure, enterprise-grade systems**
+- 👨‍💻 Strong background in **DevOps, Automation, and System Optimization**
+- 👥 Proven leader in building high-performance technical teams
+
+---
+
+## 🧠 Core Expertise
+
+- ☁️ Cloud: Azure (IaaS, PaaS, AD) | AWS (EC2, S3, RDS)
+- 🔐 Security: SecOps, Firewalls, Risk Assessment, Compliance
+- ⚙️ DevOps: Automation, CI/CD Concepts, Monitoring
+- 🖥️ Infrastructure: Windows Server, Active Directory, Exchange
+- 🌐 Networking: VPN, DNS, DHCP, Cisco Systems
+- 🧰 Virtualization: Hyper-V, VMware
+- 📊 Optimization: Cost Reduction, Performance Tuning
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,bash,powershell,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,bash,powershell,git,github" />
 </p>
+
+---
+
+## 📊 Key Achievements
+
+- 🚀 Reduced operational costs by **40%**
+- ⚡ Improved system performance by **90%**
+- ☁️ Built cloud infrastructure with **99.9% uptime**
+- 🔄 Migrated legacy systems to cloud reducing costs by **20%**
+- 🏦 Implemented **Egypt’s first mortgage system**
 
 ---
 
 ## 📌 Featured Projects
 
 <table>
-  <tr>
-    <td><a href="https://github.com/MichaelKamelit/AionUi"><b>AionUi</b></a></td>
-    <td>UI-focused project with substantial codebase and active development.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/MichaelKamelit/iDescriptor-_win"><b>iDescriptor-_win</b></a></td>
-    <td>Windows-oriented project highlighting practical implementation work.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/MichaelKamelit/michael-portfolio"><b>michael-portfolio</b></a></td>
-    <td>Personal portfolio repository to showcase work and professional presence.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/MichaelKamelit/DevOps-step-by-step-arabic"><b>DevOps-step-by-step-arabic</b></a></td>
-    <td>Arabic technical content and learning resources around DevOps.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/MichaelKamelit/Azure-DevOps-Study-Group"><b>Azure-DevOps-Study-Group</b></a></td>
-    <td>Study materials and resources around Azure DevOps practices.</td>
-  </tr>
+<tr>
+<td><a href="https://github.com/MichaelKamelit/AionUi"><b>AionUi</b></a></td>
+<td>Large-scale UI project with strong architecture.</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/MichaelKamelit/iDescriptor-_win"><b>iDescriptor</b></a></td>
+<td>Windows-based system-level implementation.</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/MichaelKamelit/michael-portfolio"><b>Portfolio</b></a></td>
+<td>Professional portfolio showcasing work and experience.</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/MichaelKamelit/DevOps-step-by-step-arabic"><b>DevOps Arabic</b></a></td>
+<td>Educational DevOps content in Arabic.</td>
+</tr>
 </table>
 
 ---
@@ -80,35 +99,33 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 Certifications
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MichaelKamelit&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🎯 Focus Areas
-
-- DevOps & Automation
-- Cloud Infrastructure
-- Microsoft Azure
-- Windows Server Administration
-- Microsoft 365
-- Virtualization
-- Networking & Security
+- 🎓 MCSE (Microsoft)
+- 🌐 CCNA (Cisco)
+- 🔐 Certified Cybersecurity Technician (CCT)
+- 💻 CompTIA A+ / N+
 
 ---
 
-## 🌐 Professional Links
+## 🎯 Current Focus
 
-<p align="center">
-  <a href="https://github.com/MichaelKamelit">GitHub</a> •
-  <a href="https://www.upwork.com/freelancers/~01d72498331fb8e9ed">Upwork</a>
-</p>
+- 🔐 Google SecOps (Security Operations)
+- ☁️ Cloud Architecture Optimization
+- ⚙️ DevOps Automation
+- 🧠 Advanced Security & Monitoring Systems
+
+---
+
+## 🌐 Contact
+
+- 📧 michael.kamel.it@gmail.com 
+- 🌍 Cairo, Egypt  
+- 💼 Upwork Profile:  
+  https://www.upwork.com/freelancers/~01d72498331fb8e9ed  
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile 💙</b>
+  🔥 <b>Building scalable systems | Securing infrastructure | Leading innovation</b>
 </p>
