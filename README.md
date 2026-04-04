@@ -1,44 +1,114 @@
-I have over 15 years in the IT industry. Experience in system administration and support, database implementation, load testing, server, and other hardware.
-https://www.upwork.com/freelancers/~01d72498331fb8e9ed
-Industry Certifications:
-☑️ Implementing Microsoft Azure Infrastructure Solutions
-☑️ MCSA – Office 365
-☑️ Server Virtualization with Windows Server Hyper-V and Systems Center Specialist
-☑️ MCP - SharePoint ☑️ MCP – MS Exchange ☑️ MCP - Windows
+<h1 align="center">Hi 👋, I'm Michael Kamel</h1>
+<h3 align="center">DevOps Engineer | Cloud Engineer | IT Infrastructure Specialist</h3>
 
-Strong expertise (15+ years’ experience) in design, configuration, implementation, integration, and support of various server and network infrastructure. Solution-oriented, highly analytical candidate providing highly developed problem-solving skills. 
+<p align="center">
+  <a href="https://github.com/MichaelKamelit?tab=followers">
+    <img src="https://img.shields.io/github/followers/MichaelKamelit?label=Followers&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MichaelKamelit&label=Profile+Views&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Cloud%20%7C%20Infra-blue?style=for-the-badge" />
+</p>
 
-☑️Microsoft Servers:
-• Windows Servers (2k-2k19), SBS (2k3-2k11) & Essentials Servers (2k12-2k19) deployment & administrations, IIS & SSL configurations etc.
-• Azure AD Connect and SSO with Azure & office 365 etc.
-• Active Directory, AD Sites, Trust, AD Sites, FSMO Roles, DNS, Group Policies, DHCP, Print Services, File Service & DC Migration, etc.
-• Failover Cluster, Load Balancing, SCVVM, SCOM, SCDPM, etc.
-• Remote Desktop Services, Terminal Services, RRAS VPN (PPTP, L2TP, SSTP), etc.
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01d72498331fb8e9ed">
+    <img src="https://img.shields.io/badge/Upwork-Profile-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="https://github.com/MichaelKamelit/michael-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/MichaelKamelit">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-☑️Microsoft Exchange:
-• Exchange Server (2k3-2k19) deployment & administrations etc.
-• HA & DAG Configurations, CAS Arrays, Mailbox Migrations, Hybrid deployment with Office 365, etc.
+---
 
+## 🚀 About Me
 
-☑️Office 365:
-• Emails Migration from On-premise Exchange Servers, and Hosted Exchange, etc.
-• ADFS and Single Sign-on Configurations, ATP Configurations, 2FA Authentications, etc.
-• DNS SPF, DKIM and DMARC configurations, etc.
-• SharePoint Team Site creation with Document Library and Data Migration from On-Premise Network Shares or SharePoint Server, etc.
+- 💼 DevOps Engineer with strong background in IT Infrastructure and Systems Administration
+- ☁️ Working across Cloud, Automation, Deployment Pipelines, and Infrastructure Reliability
+- 🛠️ Hands-on with Azure, Windows Server, Microsoft 365, Virtualization, Networking, and Support
+- 📚 Passionate about building practical solutions, learning continuously, and sharing technical knowledge
 
-☑️Microsoft Azure:
-• Azure AD Connect, Azure Active Directory, SSO, ADFS with On-Premise Windows Servers, etc.
-• Resource groups, Virtual Networks, Storage & Virtual Machines configurations, and Monitoring, etc.
+---
 
+## 🧰 Tech Stack
 
-☑️Virtualization:
-• Microsoft Hyper-V (2k8- 2k19), High Availability (HA) with Failover Clustering & Load Balancing, etc. SCVVM, SCOM & SCDPM
-• Private Cloud & Public Cloud.
-• Vmware Hypervisor (ESXi), vSphere, vCenter, etc.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,bash,powershell,html,css,js" />
+</p>
 
-☑️Microsoft Windows:
-• Windows 7, Windows 10, Office 365 apps, Office (2k3-2019), Outlook, etc.
-I am quick to learn and adapt to new situations, configurations, and technologies. My greatest strength is my ability to walk into a new environment and be functional immediately
+---
 
+## 📌 Featured Projects
 
- I have a strong work ethic and guarantee high-quality work. Your project done right, it matters to me too.  
+<table>
+  <tr>
+    <td><a href="https://github.com/MichaelKamelit/AionUi"><b>AionUi</b></a></td>
+    <td>UI-focused project with substantial codebase and active development.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MichaelKamelit/iDescriptor-_win"><b>iDescriptor-_win</b></a></td>
+    <td>Windows-oriented project highlighting practical implementation work.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MichaelKamelit/michael-portfolio"><b>michael-portfolio</b></a></td>
+    <td>Personal portfolio repository to showcase work and professional presence.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MichaelKamelit/DevOps-step-by-step-arabic"><b>DevOps-step-by-step-arabic</b></a></td>
+    <td>Arabic technical content and learning resources around DevOps.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MichaelKamelit/Azure-DevOps-Study-Group"><b>Azure-DevOps-Study-Group</b></a></td>
+    <td>Study materials and resources around Azure DevOps practices.</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MichaelKamelit&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelKamelit&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelKamelit&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MichaelKamelit&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🎯 Focus Areas
+
+- DevOps & Automation
+- Cloud Infrastructure
+- Microsoft Azure
+- Windows Server Administration
+- Microsoft 365
+- Virtualization
+- Networking & Security
+
+---
+
+## 🌐 Professional Links
+
+<p align="center">
+  <a href="https://github.com/MichaelKamelit">GitHub</a> •
+  <a href="https://www.upwork.com/freelancers/~01d72498331fb8e9ed">Upwork</a>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile 💙</b>
+</p>
