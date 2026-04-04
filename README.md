@@ -1,7 +1,12 @@
 <img src="https://raw.githubusercontent.com/MichaelKamelit/MichaelKamelit/main/banner.png" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Michael Kamel</h1>
-<h3 align="center">Senior IT Manager | DevOps & Cloud Engineer | SecOps Specialist</h3>
+<h1 align="center">
+  Hi 👋, I'm Michael Kamel
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+IT+Manager;DevOps+%26+Cloud+Engineer;Google+SecOps+Specialist;20%2B+Years+Experience&center=true&width=500&height=50">
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MichaelKamelit&label=Profile+Views&style=for-the-badge&color=0e75b6" />
@@ -22,25 +27,21 @@
 
 ## 🚀 About Me
 
-- 💼 Senior IT Manager with **20+ years of experience** in IT Infrastructure & Cloud  
-- ☁️ Expert in **Azure & AWS Cloud Solutions**  
-- 🔐 Currently working on **Google SecOps (Security Operations)**  
-- 📈 Achieved **40% cost reduction & 99.9% uptime**  
-- 🏗️ Designing scalable, secure, enterprise-grade systems  
-- 👨‍💻 DevOps, Automation & Infrastructure Optimization  
-- 👥 Leading high-performance technical teams  
+- 💼 Senior IT Manager with **20+ years experience**
+- ☁️ Azure & AWS Cloud Expert
+- 🔐 Currently working on **Google SecOps**
+- 📈 Achieved **40% cost reduction & 99.9% uptime**
+- 🏗️ Enterprise Infrastructure Architect
+- 👨‍💻 DevOps & Automation Specialist
+- 👥 Team Leader & Decision Maker
 
 ---
 
-## 🧠 Core Expertise
+## ⚡ Live Activity Graph
 
-- ☁️ Cloud: Azure | AWS  
-- 🔐 Security: SecOps, Firewalls, Risk & Compliance  
-- ⚙️ DevOps: CI/CD, Automation  
-- 🖥️ Infrastructure: Windows Server, AD, Exchange  
-- 🌐 Networking: VPN, DNS, DHCP, Cisco  
-- 🧰 Virtualization: VMware, Hyper-V  
-- 📊 Optimization: Performance & Cost Reduction  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelKamelit&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
@@ -52,50 +53,30 @@
 
 ---
 
-## 📊 Key Achievements
-
-- 🚀 Reduced operational costs by **40%**  
-- ⚡ Improved performance by **90%**  
-- ☁️ Built systems with **99.9% uptime**  
-- 🔄 Cloud migration reducing cost by **20%**  
-- 🏦 Built **Egypt’s first mortgage system**  
-
----
-
 ## 💼 My Services
 
 ### ☁️ Cloud & DevOps
-- Cloud architecture (Azure / AWS)
-- CI/CD pipelines & automation
-- Infrastructure deployment & scaling
+✔ Cloud Architecture (Azure / AWS)  
+✔ CI/CD Pipelines & Automation  
+✔ Infrastructure Deployment  
 
 ### 💰 Cost Optimization
-- Reduce cloud costs (25%–40%)
-- Monitoring & performance tuning
+✔ Reduce costs by 25%–40%  
+✔ Performance tuning  
 
 ### 🔐 Security & SecOps
-- Google SecOps (SIEM)
-- Security hardening & compliance
-- Disaster recovery & backups
+✔ Google SecOps (SIEM)  
+✔ Security hardening  
+✔ Disaster recovery  
 
 ### 🖥️ Infrastructure
-- Windows Server & Active Directory
-- Microsoft 365 & Exchange
-- Virtualization & networking
+✔ Windows Server & AD  
+✔ Microsoft 365 & Exchange  
+✔ Networking & Virtualization  
 
 ### ⚙️ Troubleshooting
-- Fix critical production issues
-- Server & cloud debugging
-- Long-term support
-
----
-
-## 📌 Featured Projects
-
-- https://github.com/MichaelKamelit/AionUi  
-- https://github.com/MichaelKamelit/iDescriptor-_win  
-- https://github.com/MichaelKamelit/michael-portfolio  
-- https://github.com/MichaelKamelit/DevOps-step-by-step-arabic  
+✔ Fix critical production issues  
+✔ Cloud & server debugging  
 
 ---
 
@@ -112,33 +93,23 @@
 
 ---
 
-## 🏆 Certifications
+## 🏆 Achievements
 
-- 🎓 MCSE  
-- 🌐 CCNA  
-- 🔐 Certified Cybersecurity Technician (CCT)  
-- 💻 CompTIA A+ / N+  
-
----
-
-## 🎯 Current Focus
-
-- 🔐 Google SecOps  
-- ☁️ Cloud Architecture  
-- ⚙️ DevOps Automation  
-- 🧠 Advanced Security Systems  
+- 🚀 40% Cost Reduction  
+- ⚡ 90% Performance Improvement  
+- ☁️ 99.9% Uptime Systems  
+- 🏦 Built Egypt’s First Mortgage System  
 
 ---
 
 ## 🌐 Contact
 
-- 📧 michael.kamel.it@gmail.com
-- 🌍 Cairo, Egypt  
+- 📧 michael.kamel.it@gmail.com  
 - 💼 Upwork:  
   https://www.upwork.com/freelancers/~01d72498331fb8e9ed  
 
 ---
 
 <p align="center">
-  🔥 <b>Cloud | DevOps | Security | Infrastructure</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=120&section=footer"/>
 </p>
