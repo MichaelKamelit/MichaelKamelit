@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MichaelKamelit/MichaelKamelit/main/banner.png" width="80%" alt="Michael Kamel Banner" />
+<img src="https://raw.githubusercontent.com/MichaelKamelit/MichaelKamelit/main/banner.png" width="100%" alt="Michael Kamel Banner" />
 <h1 align="center">Michael Kamel</h1>
 <h3 align="center">Senior IT Manager | Cloud & DevOps Engineer | Google SecOps Specialist</h3>
 
