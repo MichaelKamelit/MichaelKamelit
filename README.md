@@ -13,7 +13,7 @@
   <a href="https://www.upwork.com/freelancers/~01d72498331fb8e9ed">
     <img src="https://img.shields.io/badge/Hire%20Me-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
-  <a href="mailto:mikeal2020@gmail.com">
+  <a href="mailto:michael.kamel.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
