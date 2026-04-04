@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/MichaelKamelit/MichaelKamelit/main/banner.png" width="100%" alt="Michael Kamel Banner" />
-<h1 align="center">Michael Kamel</h1>
+<img src="https://raw.githubusercontent.com/MichaelKamelit/MichaelKamelit/main/banner.png" width="100%" alt="Michael Magdy Banner" />
+
+<h1 align="center">Michael Magdy</h1>
 <h3 align="center">Senior IT Manager | Cloud & DevOps Engineer | Google SecOps Specialist</h3>
 
 <p align="center">
@@ -29,7 +30,7 @@
 
 ## 🚀 About Me
 
-I’m **Michael Kamel**, a **Senior IT Manager / Cloud & DevOps Engineer** with **20+ years of experience** building, securing, and optimizing enterprise IT environments.
+I’m **Michael Magdy**, a **Senior IT Manager / Cloud & DevOps Engineer** with **20+ years of experience** building, securing, and optimizing enterprise IT environments.
 
 I help businesses design and maintain **production-ready cloud infrastructure** on **AWS and Azure**, improve **uptime**, reduce **cloud costs**, strengthen **security posture**, and modernize legacy systems with minimal downtime.
 
