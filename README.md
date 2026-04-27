@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MichaelKamelit/MichaelKamelit/main/banner.png" width="100%" alt="Michael Magdy Banner" />
 
 <h1 align="center">Michael Magdy</h1>
-<h3 align="center">Senior IT Manager | Cloud & DevOps Engineer | Google SecOps Specialist</h3>
+<h3 align="center">Head of IT | Digital Transformation Leader | Cloud & Infrastructure | Driving Cost Optimization & Business Growth </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=20%2B+Years+of+IT+%26+Cloud+Experience;AWS+%7C+Azure+%7C+Infrastructure+%7C+Security;Google+SecOps+%7C+DevOps+%7C+Cloud+Optimization;Production-Ready+Systems+with+99.9%25+Uptime" alt="Typing SVG" />
