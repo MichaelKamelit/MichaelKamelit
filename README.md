@@ -11,7 +11,7 @@
   <a href="mailto:michael.kamel.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-michael.kamel.it%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01d72498331fb8e9ed">
+  <a href="https://cloudshift360.com/">
     <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
   <a href="https://github.com/MichaelKamelit">
